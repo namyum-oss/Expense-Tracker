@@ -23,7 +23,7 @@ A simple command-line expense tracker built using Python. This project allows us
 1. Clone this repository:
 
    ```bash
-   git clone YOUR_REPOSITORY_URL
+   git clone https://github.com/namyum-oss/Expense-Tracker.git
    ```
 
 2. Navigate to the project directory:
